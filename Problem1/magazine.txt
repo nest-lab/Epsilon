@@ -1,0 +1,4 @@
+Hi, you all said you could code, so here you go... What you have
+here is a collection (or list, whichever works for you) of
+questions for you and your team to solve within the day. Code
+fast, code smart, and git your codes running!
